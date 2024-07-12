@@ -302,6 +302,9 @@ img {
 .skills__Python {
   width: 50%;
 }
+.skills__sql {
+  width: 60%;
+}
 .skills__img {
   border-radius: 0.5rem;
 }
